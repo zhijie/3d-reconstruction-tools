@@ -1,0 +1,2 @@
+Store calibrated parameters in a .yml for later use from a .ifl file which contains a list of image filenames.
+This tool should be in the same directory with .ifl and images when it is used.

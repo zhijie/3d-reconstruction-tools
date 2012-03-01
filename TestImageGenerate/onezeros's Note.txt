@@ -1,0 +1,1 @@
+This software is written for generate test images,however it does not really works.Just for fun for the moment.

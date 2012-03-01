@@ -1,0 +1,3 @@
+Find corners of chessboard and draw them in a new image.
+Then the found coordinates are stored in a .yml file.
+I strongly advise you to use this program in a bat file.
